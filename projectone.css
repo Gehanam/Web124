@@ -1,0 +1,10 @@
+body {
+    background-color: aqua;
+}
+
+.player_control {
+    background-color: aquamarine;
+    color: white;
+    font-family:cursive;
+    font-size: 10px;
+}
